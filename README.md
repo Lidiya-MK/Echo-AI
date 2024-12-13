@@ -1,4 +1,4 @@
-# Echo- Telegram Chatbot
+# Echo - Telegram Chatbot
 
 **Echo** is a Telegram Chat-Bot 🤖 that is powered by Google's Gemini. If you have a Telegram account, you can access Echo with the username **_`echo_00ai_bot`_**. The script running Echo is provided in this repository.
 
