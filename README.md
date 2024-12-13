@@ -1,11 +1,5 @@
 # Echo
 
-**Echo** is a versatile application designed to amplify your productivity by providing a seamless platform for efficient communication and task management. Built with modern technologies, Echo ensures a fast, reliable, and intuitive user experience.
+**Echo** is a Telegram Chat-Bot 🤖 that is powered by Googl's Gemini. If you have a Telegram account you can access the Bot with the username "echo_00ai_bot". The script running Echo is provided here.
 
-## Features
-
-- **Real-time Messaging:** Communicate instantly with team members or friends.
-- **Task Management:** Organize and track tasks efficiently with robust tools.
-- **Customizable Themes:** Personalize the interface to suit your preferences.
-- **Cross-Platform Support:** Accessible on web, mobile, and desktop.
--
+![image](https://github.com/user-attachments/assets/e2475841-efb9-4daf-a57d-6863e94ddab9)
