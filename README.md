@@ -1,6 +1,24 @@
-# Echo-AI
+# Echo- Telegram Chatbot
 
 **Echo** is a Telegram Chat-Bot 🤖 that is powered by Google's Gemini. If you have a Telegram account, you can access Echo with the username **_`echo_00ai_bot`_**. The script running Echo is provided in this repository.
+
+
+
+## Libraries Used
+
+To run the script, I used the following libraries:
+
+- **`python-telegram-bot`**: A Python wrapper for the Telegram Bot API.
+  ```bash
+  pip install python-telegram-bot
+
+- **`google-generativeai`**: A Library that is used to interact with Googles Gen AI services.
+  ```bash
+  pip install google-generativeai
+
+## Hosting
+
+The script is hosted on **[PythonAnywhere](https://www.pythonanywhere.com/)**, which provides an easy and reliable platform to deploy Python-based applications.
 
 
 
