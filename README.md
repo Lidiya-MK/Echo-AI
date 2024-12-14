@@ -18,7 +18,7 @@ To run the script, I used the following libraries:
 
 ## Hosting
 
-The script is hosted on **[PythonAnywhere](https://www.pythonanywhere.com/)**, which provides an easy and reliable platform to deploy Python-based applications.
+The script is hosted on **[PythonAnywhere](https://www.pythonanywhere.com/)**, which provides a simple platform to deploy Python-based applications.
 
 
 
