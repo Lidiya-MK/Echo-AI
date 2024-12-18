@@ -20,7 +20,7 @@ To run the script, I used the following libraries:
 
 The script is hosted on **[PythonAnywhere](https://www.pythonanywhere.com/)**, which provides a simple platform to deploy Python-based applications.
 
-
+Here is a screenshot of my conversation with Echo!
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
